@@ -28,7 +28,7 @@
 
 
 ## Screenshots
-![Example screenshot]("C:\Users\kimeu\OneDrive\Desktop\web_Dev\screenshot_1.JPG")
+!("C:\Users\kimeu\OneDrive\Desktop\web_Dev\screenshot_1.JPG")
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
