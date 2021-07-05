@@ -28,7 +28,7 @@
 
 
 ## Screenshots
-[](data/final_output.png)
+![final_output](https://user-images.githubusercontent.com/48457677/124468523-e10b0100-dda1-11eb-83e7-9cdcad88154b.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
