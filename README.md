@@ -28,7 +28,7 @@
 
 
 ## Screenshots
-(/images/final_output.JPG)
+[](images/final_output.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
