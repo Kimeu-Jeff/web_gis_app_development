@@ -28,17 +28,13 @@
 
 
 ## Screenshots
-[](images/final_output.png)
+[](data/final_output.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
 ## Setup
 - Download and install all the libraries required
 - Download and save your data in your working folder and follow the tutorial
-
-
-## Project Status
-- Project in progress
 
 
 ## Acknowledgements
